@@ -27,8 +27,6 @@ I'm a backend developer working mainly in C# and .NET, with smaller projects in 
 
 [vasar.dev](https://vasar.dev) · [Projects](https://vasar007.github.io/) · [LinkedIn](https://www.linkedin.com/in/vasar/) · [Telegram](https://t.me/Vasar007) · [Steam](https://steamcommunity.com/id/Vasar007/) · [VK](https://vk.ru/vasar007) · [Discord](https://discord.com/users/vasar)
 
-<sub>Last updated: 26 September 2026</sub>
-
 <!--
 The bio, the stack list and the project descriptions are shared with the
 projects site (Vasar007/Vasar007.github.io); the links are shared with it and
