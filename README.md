@@ -30,8 +30,8 @@ I'm a backend developer working mainly in C# and .NET, with smaller projects in 
 <sub>Last updated: 26 September 2026</sub>
 
 <!--
-The bio, the stack list, the project descriptions and the links are shared with
-the calling card (Vasar007/personal-site) and the projects site
-(Vasar007/Vasar007.github.io). Change all three together.
+The bio, the stack list and the project descriptions are shared with the
+projects site (Vasar007/Vasar007.github.io); the links are shared with it and
+the calling card (Vasar007/personal-site). Change them together.
 Texts are under CC BY 4.0; code is under the MIT licence (see LICENSE).
 -->
