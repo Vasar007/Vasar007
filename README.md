@@ -28,8 +28,8 @@ I'm a backend developer working mainly in C# and .NET, with smaller projects in 
 [vasar.dev](https://vasar.dev) · [Projects](https://vasar007.github.io/) · [LinkedIn](https://www.linkedin.com/in/vasar/) · [Telegram](https://t.me/Vasar007) · [Steam](https://steamcommunity.com/id/Vasar007/) · [VK](https://vk.ru/vasar007) · [Discord](https://discord.com/users/vasar)
 
 <!--
-The bio, the stack list and the project descriptions are shared with the
-projects site (Vasar007/Vasar007.github.io); the links are shared with it and
-the calling card (Vasar007/personal-site). Change them together.
+Parts of this content can also appear on the projects site
+(Vasar007/Vasar007.github.io) and the calling card (Vasar007/personal-site).
+When changing content here, check those two as well.
 Texts are under CC BY 4.0; code is under the MIT licence (see LICENSE).
 -->
